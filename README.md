@@ -34,7 +34,7 @@ The boom of the pyramid is a console game written in C ++, where the player trie
     1 2  
    1 2 3  
   1 2 3 4  
-
+ ...
 ```
 
 - The player enters the number `2` → the game continues.
